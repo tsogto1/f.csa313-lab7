@@ -1,0 +1,22 @@
+{
+  "spec": {
+    "name": "malformed-text",
+    "body": "буруу оролт",
+    "malformed": true
+  },
+  "response": {
+    "exitCode": 0,
+    "stdout": "HTTP/1.1 200 OK\r\nContent-Type: application/json\r\nDate: Tue, 20 Oct 2026 08:00:34 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nTransfer-Encoding: chunked\r\n\r\n{\"result\":\"OK\"}",
+    "stderr": "",
+    "status": 200
+  },
+  "args": [
+    "-X",
+    "POST",
+    "http://127.0.0.1:3000/api/books",
+    "-H",
+    "Content-Type: application/json",
+    "--data-binary",
+    "@/workspace/f.csa313-lab7/evidence/saboteur/malformed-text-request.txt"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "spec": {
+    "kind": "required",
+    "name": "all-empty",
+    "title": "",
+    "author": "",
+    "year": ""
+  },
+  "after": {
+    "url": "http://127.0.0.1:3000/",
+    "rows": [
+      "Тунгалаг ТамирЧ.Лодойдамба1,971Устгах",
+      "Clean CodeRobert C. Martin2,008Устгах",
+      "The Pragmatic ProgrammerD.Thomas & A.Hunt1,999Устгах",
+      "0Устгах"
+    ],
+    "text": "Уншлагын жагсаалт\n   Нэмэx\n Хайх Бүгд\nНом нэмэгдлээ\nГарчиг\tЗохиолч\tОн\t\nТунгалаг Тамир\tЧ.Лодойдамба\t1,971\tУстгах\nClean Code\tRobert C. Martin\t2,008\tУстгах\nThe Pragmatic Programmer\tD.Thomas & A.Hunt\t1,999\tУстгах\n\t\t0\tУстгах\nНийт ном: 5 · Хамгийн шинэ он: 2008\nХуучин хувилбар · Уншлагын жагсаалт v2.0",
+    "width": {
+      "viewport": 1440,
+      "document": 1440,
+      "table": 860
+    }
+  },
+  "requests": [
+    {
+      "method": "POST",
+      "url": "http://127.0.0.1:3000/api/books",
+      "data": "{\"title\":\"\",\"author\":\"\",\"year\":\"\"}"
+    }
+  ]
+}

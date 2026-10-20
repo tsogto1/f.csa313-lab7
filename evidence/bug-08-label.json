@@ -1,0 +1,18 @@
+{
+  "text": "Нэмэx",
+  "codepoints": [
+    "U+041D",
+    "U+044D",
+    "U+043C",
+    "U+044D",
+    "U+0078"
+  ],
+  "expected": "Нэмэх",
+  "expectedCodepoints": [
+    "U+041D",
+    "U+044D",
+    "U+043C",
+    "U+044D",
+    "U+0445"
+  ]
+}

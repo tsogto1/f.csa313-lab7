@@ -1,0 +1,25 @@
+{
+  "verified_commit": "9d8265d07eb381b53c85558f33546653fd6755de",
+  "utc": "2026-10-20T08:31:37.693Z",
+  "source": "Fresh HTTPS Git clone into a new directory under /tmp; instructor app copied locally and remains ignored",
+  "ui_report_reproductions": {
+    "BUG-01": true,
+    "BUG-02": true,
+    "BUG-03": true,
+    "BUG-08": true,
+    "BUG-04": true,
+    "BUG-05": true,
+    "BUG-06": true,
+    "BUG-07": true,
+    "BUG-09": true,
+    "BUG-10": true,
+    "BUG-11": true
+  },
+  "keyboard_control": {
+    "passed": true,
+    "rows": 4
+  },
+  "api_replay": "Not run after user instruction; prior session evidence retained",
+  "tracked_clone_changes": false,
+  "instructor_app_unchanged": true
+}

@@ -1,0 +1,20 @@
+{
+  "utc": "2026-10-20T08:34:32.168771+00:00",
+  "markdown_url": "https://github.com/tsogto1/f.csa313-lab7/blob/main/bugs/bug-01.md",
+  "html_http_status": 200,
+  "rendered_markdown_contains_image": true,
+  "images": {
+    "bug-01.png": {
+      "http_status": 200,
+      "sha256": "86651aadad936bd75e8b138262ea69f54e4bd5c560c85b8c4e9b3e4a76b6630c",
+      "matches_committed_image": true
+    },
+    "bug-07.png": {
+      "http_status": 200,
+      "sha256": "efddba6ef65ac4a019a2e31328c02c253e8c4bf73e82b16b2ad160baa2e6ae42",
+      "matches_committed_image": true
+    }
+  },
+  "tls_verification": "curl used normal verified TLS; Chromium external-page check encountered ERR_CERT_AUTHORITY_INVALID and was not bypassed",
+  "network_scope": "Read-only GitHub web/asset GETs; no new application API probes"
+}

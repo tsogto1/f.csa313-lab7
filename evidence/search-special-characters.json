@@ -1,0 +1,196 @@
+[
+  {
+    "utc": "2026-10-20T07:41:03.652Z",
+    "q": "Clean Code",
+    "rows": [
+      "Clean CodeRobert C. Martin2,008Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:04.731Z",
+    "q": "Clean",
+    "rows": [
+      "Clean CodeRobert C. Martin2,008Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:05.798Z",
+    "q": " Code",
+    "rows": [
+      "Clean CodeRobert C. Martin2,008Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:06.863Z",
+    "q": "Robert C. Martin",
+    "rows": [
+      "Clean CodeRobert C. Martin2,008Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:07.973Z",
+    "q": "C. Martin",
+    "rows": [
+      "Clean CodeRobert C. Martin2,008Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:09.067Z",
+    "q": "CODE",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:10.159Z",
+    "q": "c",
+    "rows": [
+      "The Pragmatic ProgrammerD.Thomas & A.Hunt1,999Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:11.261Z",
+    "q": "",
+    "rows": [
+      "Тунгалаг ТамирЧ.Лодойдамба1,971Устгах",
+      "Clean CodeRobert C. Martin2,008Устгах",
+      "The Pragmatic ProgrammerD.Thomas & A.Hunt1,999Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:12.324Z",
+    "q": " ",
+    "rows": [
+      "Тунгалаг ТамирЧ.Лодойдамба1,971Устгах",
+      "Clean CodeRobert C. Martin2,008Устгах",
+      "The Pragmatic ProgrammerD.Thomas & A.Hunt1,999Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:13.388Z",
+    "q": "^",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:14.440Z",
+    "q": ".*",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:15.509Z",
+    "q": "[",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:16.588Z",
+    "q": "[]",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:17.661Z",
+    "q": "%",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:18.727Z",
+    "q": "&",
+    "rows": [
+      "The Pragmatic ProgrammerD.Thomas & A.Hunt1,999Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:19.794Z",
+    "q": "=",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:20.856Z",
+    "q": "?",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:21.924Z",
+    "q": "#",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:22.988Z",
+    "q": "/",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:24.059Z",
+    "q": "<script>",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:25.140Z",
+    "q": "😀",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:26.215Z",
+    "q": "Тунгалаг Тамир",
+    "rows": [
+      "Тунгалаг ТамирЧ.Лодойдамба1,971Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:27.272Z",
+    "q": "Ч.Лодойдамба",
+    "rows": [
+      "Тунгалаг ТамирЧ.Лодойдамба1,971Устгах"
+    ],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  },
+  {
+    "utc": "2026-10-20T07:41:28.375Z",
+    "q": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "rows": [],
+    "errors": [],
+    "url": "http://127.0.0.1:3000/"
+  }
+]

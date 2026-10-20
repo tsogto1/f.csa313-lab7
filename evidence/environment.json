@@ -1,0 +1,19 @@
+{
+  "node_version": "v20.19.2",
+  "chromium_version": "Chromium 154.0.8037.57 built on Debian GNU/Linux 13 (trixie)",
+  "os": "Debian GNU/Linux 13.6 (trixie), Linux x86_64",
+  "timezone": "Asia/Ulaanbaatar",
+  "default_viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "app_sha256": "a2158dc202e62a18f11adcc0feca1d84fb6c6a9ec269b8eb63bc72f10eb27c6c",
+  "app_source": "User-provided instructor attachment, 2026-10-20; source not inspected or modified",
+  "charter_commit": "24c779060cfc571b4e523b62e10a9ddf4569a964",
+  "session_start_utc": "2026-10-20T07:25:27.230384+00:00",
+  "tester": "Х.Цогтбаяр B232270072; execution assisted by Codex AI agent",
+  "automation": "Playwright Core 1.64.1, Chromium headless; curl for API evidence",
+  "curl_version": "curl 8.14.1 (x86_64-pc-linux-gnu), OpenSSL/3.5.7",
+  "node_archive_sha256": "cbe59620b21732313774df4428586f7222a84af29e556f848abf624ba41caf90",
+  "node_download": "https://nodejs.org/dist/v20.19.2/node-v20.19.2-linux-x64.tar.xz"
+}

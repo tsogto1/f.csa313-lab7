@@ -1,0 +1,23 @@
+{
+  "start_utc": "2026-10-20T07:25:27.230384+00:00",
+  "actual_end_utc": "2026-10-20T08:25:27.234Z",
+  "duration_seconds": 3600.003616,
+  "timezone": "Asia/Ulaanbaatar",
+  "local_interval": "2026-10-20 15:25:27–16:25:27 +08:00",
+  "counts": {
+    "ui-sequence-campaign": 82,
+    "validation-campaign": 114,
+    "api-campaign": 78,
+    "ui-only-campaign": 50,
+    "final-ui-replay": 25,
+    "session-monitor": 578
+  },
+  "api_distinct_cases": 24,
+  "validation_distinct_cases": 42,
+  "ui_defects_reproduced": 11,
+  "ui_replay_rounds": 25,
+  "api_stopped_on_user_request": true,
+  "api_last_completed_probe_utc": "2026-10-20T08:09:59.991Z",
+  "api_replay_after_user_stop": false,
+  "execution": "Codex AI agent assisted; not a claim of 60 minutes of manual student testing"
+}
